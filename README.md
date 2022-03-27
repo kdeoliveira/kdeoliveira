@@ -1,11 +1,10 @@
 ___
-
-### ``me@kevindeoliveira:~$ whoami``<br/>
+### ``me@kevindeoliveira:~$ whoami``</code></pre><br/>
 
 :wave: Hey there, I am Kevin and currently studying Computer Engineering in Canada<br/>
 :computer: Love working on projects and discovering new technologies<br/>
 :panda_face: Linux based<br/>
-
+ 
 ### `me@keivndeoliveira:~$ cat contact_me`
   
 You can reach me at contact@kevindeoliveira.com<br/>
@@ -16,9 +15,9 @@ Web based applications <img src="https://user-images.githubusercontent.com/30329
 Embedded systems and CLI <img src="https://user-images.githubusercontent.com/30329807/160302543-47107481-3023-471b-8eab-1f9373db8e2b.png" alt="c" style="width:18px;height:20px"/> <br/>
 CLI and Web applications <img src="https://user-images.githubusercontent.com/30329807/160302595-f277a7be-9b81-4e61-adb5-7bbed6b964bc.png" alt="python" style="width:18px;height:20px"/><br/>
 ### `me@kevindeoliveira~$ cat projects`
- 
-[Vehicule monitoring system for QNX based systems](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
-[FTP Client and Server service](https://github.com/kdeoliveira/ftp_server)<br/>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=rtos_vehicule_monitoring&theme=dark)](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=ftp_server&theme=dark)](github.com/kdeoliveira/ftp_server)<br/>
 
 ___
 <p align="center">You can always visit my website for more information https://kevindeoliveira.com</p>
