@@ -16,7 +16,7 @@ Embedded systems and CLI <img src="https://user-images.githubusercontent.com/303
 CLI and Web applications <img src="https://user-images.githubusercontent.com/30329807/160302595-f277a7be-9b81-4e61-adb5-7bbed6b964bc.png" alt="python" style="width:18px;height:20px"/><br/>
 ### `me@kevindeoliveira~$ cat projects`
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=rtos_vehicule_monitoring&theme=dark)](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=rtos_vehicule_monitoring&theme=dark)](https://github.com/kdeoliveira/rtos_vehicule_monitoring) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=ftp_server&theme=dark)](github.com/kdeoliveira/ftp_server)<br/>
 
 ___
