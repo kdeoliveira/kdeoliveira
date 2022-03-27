@@ -14,4 +14,4 @@ or on discord kdeoliveira#1062<br/>
 [Vehicule monitoring system for QNX based systems](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
 [FTP Client and Server service](https://github.com/kdeoliveira/ftp_server)<br/>
 <hr/>
-You can always visit my website for more information :blush: [kevindeoliveira.com](https://kevindeoliveira.com)
+You can always visit my website for more information :blush: https://kevindeoliveira.com
