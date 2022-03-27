@@ -2,7 +2,7 @@ ___
 
 ### ``me@kevindeoliveira:~$ whoami``<br/>
 
-:wave: Hey there, I am kevin and currently studying Computer Engineering in Canada<br/>
+:wave: Hey there, I am Kevin and currently studying Computer Engineering in Canada<br/>
 :computer: Love working on projects and discovering new technologies<br/>
 :panda_face: Linux based<br/>
 
