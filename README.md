@@ -16,7 +16,7 @@ or on discord kdeoliveira#1062<br/>
 <img src="https://user-images.githubusercontent.com/30329807/160302595-f277a7be-9b81-4e61-adb5-7bbed6b964bc.png" alt="python" style="width:18px;height:20px"/> CLI and Web applications <br/>
 ### `me@kevindeoliveira~$ cat projects`
   - - -
-<a href="https://www.google.com/" style="color: black; text-decoration: none;background: black;"><span style="color:red">custom link</span></a>
+<span style="color:red"><a href="https://www.google.com/" style="color: black; text-decoration: none;background: black;">custom link</a></span>
 
 [Vehicule monitoring system for QNX based systems](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
 [FTP Client and Server service](https://github.com/kdeoliveira/ftp_server)<br/>
