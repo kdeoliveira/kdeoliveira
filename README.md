@@ -1,4 +1,4 @@
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
+
 ### `me@kevindeoliveira:~$ whoami`
 :wave: Hey there, I am kevin and currently studying Computer Engineering in Canada<br/>
 :computer: Love working on projects and discovering new technologies<br/>
@@ -13,6 +13,5 @@ or on discord kdeoliveira#1062<br/>
 ### `me@kevindeoliveira~$ cat projects`
 [Vehicule monitoring system for QNX based systems](https://github.com/kdeoliveira/rtos_vehicule_monitoring)<br/>
 [FTP Client and Server service](https://github.com/kdeoliveira/ftp_server)<br/>
-
-  </span>
----
+<hr/>
+You can always visit my website for more information :blush: [kevindeoliveira.com](https://kevindeoliveira.com)
