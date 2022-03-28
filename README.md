@@ -17,7 +17,7 @@ CLI and Web applications <img src="https://user-images.githubusercontent.com/303
 ### `me@kevindeoliveira~$ cat projects`
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=rtos_vehicule_monitoring&theme=dark)](https://github.com/kdeoliveira/rtos_vehicule_monitoring) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=ftp_server&theme=dark)](github.com/kdeoliveira/ftp_server)<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kdeoliveira&repo=ftp_server&theme=dark)](https://github.com/kdeoliveira/ftp_server)<br/>
 
 ___
 <p align="center">You can always visit my website for more information https://kevindeoliveira.com</p>
