@@ -1,7 +1,7 @@
 ___
 ### ``me@kevindeoliveira:~$ whoami``</code></pre><br/>
 
-:wave: Hey there, I am Kevin and I am currently studying Computer Engineering in Canada<br/>
+:wave: Hey there, I am Kevin and I am currently working at Aspentech<br/>
 :computer: Love working on projects and discovering new technologies<br/>
 :panda_face: Linux based<br/>
  
